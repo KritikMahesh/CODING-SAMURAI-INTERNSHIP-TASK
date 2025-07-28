@@ -28,7 +28,7 @@ This project implements a Convolutional Neural Network (CNN) to classify handwri
 ## 🚀 How to Run the Project
 
 1. Clone this repo or upload it to your GitHub.
-2. Open `notebooks/mnist_colab.ipynb` in **Google Colab**.
+2. Open `notebooks/Handwritten_Digit_Recognition_Using_MNIST.ipynb` in **Google Colab**.
 3. Run all cells to:
    - Load the dataset
    - Build and train the CNN
