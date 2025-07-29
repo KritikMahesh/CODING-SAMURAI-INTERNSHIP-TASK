@@ -1,5 +1,5 @@
 
-# 📉 Customer Churn Prediction
+#  Customer Churn Prediction
 
 This project uses various machine learning techniques to predict customer churn based on a given dataset. Built and executed in Google Colab, it demonstrates core steps in a predictive ML pipeline: data preprocessing, visualization, model training, and evaluation.
 
@@ -86,7 +86,3 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 ```
 
 ---
-
-## 👤 Author
-
-Kritik Mahesh – [Portfolio](https://kritikmahesh.framer.website)
