@@ -42,8 +42,3 @@ Install dependencies using:
 pip install tensorflow matplotlib numpy
 ```
 
-## 👤 Author
-
-**Kritik Mahesh**  
-🔗 [Portfolio Website](https://kritikmahesh.framer.website)
-
