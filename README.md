@@ -50,11 +50,3 @@ Performs sentiment classification (positive, negative, neutral) on tweet data us
 - Jupyter Notebook
 
 ---
-
-## 💡 How to Run the Projects
-
-To run any project from this repository:
-
-1. **Clone this repository**:
-   ```bash
-   git clone https://github.com/KritikMahesh/CODING-SAMURAI-INTERNSHIP-TASK.git
