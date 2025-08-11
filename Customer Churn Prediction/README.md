@@ -1,5 +1,10 @@
+# 🔄 Customer Churn Prediction
 
-#  Customer Churn Prediction
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/Customer-Churn-Prediction/blob/main/Customer_Churn_Prediction.ipynb)
+[![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://www.python.org/downloads/)
+[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-Latest-orange.svg)](https://scikit-learn.org/)
+
+> **Predict customer churn using advanced machine learning techniques**
 
 This project uses various machine learning techniques to predict customer churn based on a given dataset. Built and executed in Google Colab, it demonstrates core steps in a predictive ML pipeline: data preprocessing, visualization, model training, and evaluation.
 
@@ -16,25 +21,25 @@ This project uses various machine learning techniques to predict customer churn 
 
 ## 🛠️ Tools & Technologies
 
-- Python 3
-- Google Colab
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Scikit-learn
+- **Python 3**
+- **Google Colab**
+- **Pandas**
+- **NumPy**
+- **Matplotlib**
+- **Seaborn**
+- **Scikit-learn**
 
 ---
 
 ## 🔍 Features Covered
 
-- Data Cleaning: Null values handling, feature dropping
-- Categorical Encoding: One-Hot Encoding, Label Encoding
-- Exploratory Data Analysis (EDA): Count plots, distribution analysis, correlation heatmap
-- Model Training: Logistic Regression, Random Forest, optional advanced models
-- Evaluation Metrics: Accuracy, Precision, Recall, F1-score, Confusion Matrix
-- Feature Importance: Understanding key churn predictors
-- Live Prediction: Test custom input with `predict_churn()` function
+- **Data Cleaning**: Null values handling, feature dropping
+- **Categorical Encoding**: One-Hot Encoding, Label Encoding
+- **Exploratory Data Analysis (EDA)**: Count plots, distribution analysis, correlation heatmap
+- **Model Training**: Logistic Regression, Random Forest, optional advanced models
+- **Evaluation Metrics**: Accuracy, Precision, Recall, F1-score, Confusion Matrix
+- **Feature Importance**: Understanding key churn predictors
+- **Live Prediction**: Test custom input with \`predict_churn()\` function
 
 ---
 
@@ -45,15 +50,15 @@ This project uses various machine learning techniques to predict customer churn 
 | Logistic Regression  | ~80%     | ~79%      | ~76%   | ~77%     |
 | Random Forest        | ~83%     | ~81%      | ~80%   | ~80%     |
 
-(Note: Results may vary slightly based on data split and random state)
+*(Note: Results may vary slightly based on data split and random state)*
 
 ---
 
 ## 🚀 How to Run the Project
 
-1. Clone this repository or upload to your GitHub.
-2. Open the notebook (`Customer_Churn_Prediction.ipynb`) in **Google Colab**.
-3. Run all cells to:
+1. **Clone this repository** or upload to your GitHub
+2. **Open the notebook** (\`Customer_Churn_Prediction.ipynb\`) in **Google Colab**
+3. **Run all cells** to:
    - Load and preprocess data
    - Perform EDA
    - Train models and evaluate them
@@ -72,9 +77,9 @@ predict_churn({
     'MonthlyCharges': 75.5,
     ...
 })
+
 # Output: Likely to Churn
 ```
-
 ---
 
 ## 🔧 Requirements
@@ -86,3 +91,4 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 ```
 
 ---
+
